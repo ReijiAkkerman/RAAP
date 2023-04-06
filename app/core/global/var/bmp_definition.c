@@ -1,0 +1,1 @@
+short int BMP_header_name = 0x4d42;

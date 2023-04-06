@@ -1,4 +1,7 @@
 test*
 *.out
+*.txt
+*.bmp
 .*
 !.gitignore
+!CMakeLists.txt
